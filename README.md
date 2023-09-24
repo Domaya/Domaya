@@ -2,8 +2,10 @@
 ### Hi there 👋
 <a href = "https://maya-is-home.tistory.com/" >
   <img src ="https://img.shields.io/badge/-Tistory-%23000000?logo=Tistory&logoColor=white&style=flat-square"/>
+</a>
+<br>
 
-## Technology ✍
+### Skils ✨
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=coffeescript&logoColor=white) 
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,8 +23,16 @@
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
 ![Domaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domaya&show_icons=true&theme=vue)
+
+---
+
+### Contact Me
+<a href="mailto:c2hila@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
 <!--
 **Domaya/Domaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
