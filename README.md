@@ -1,5 +1,27 @@
-### Hi there 👋
 
+### Hi there 👋
+<a href = "https://maya-is-home.tistory.com/" >
+  <img src ="https://img.shields.io/badge/-Tistory-%23000000?logo=Tistory&logoColor=white&style=flat-square"/>
+
+## Technology ✍
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=coffeescript&logoColor=white) 
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br>
+![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<br>
+![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<br>
+![oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+![Domaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domaya&show_icons=true&theme=vue)
 <!--
 **Domaya/Domaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
