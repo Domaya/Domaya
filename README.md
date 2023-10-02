@@ -1,3 +1,7 @@
+<div align='center'>
+  
+![image](https://github.com/Domaya/Domaya/assets/51879052/88b10c50-8a84-433a-b342-198bbab7519c)
+
 
 ### Hi there 👋
 <a href = "https://maya-is-home.tistory.com/" >
@@ -33,6 +37,8 @@
 <a href="mailto:c2hila@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
+
+</div>
 <!--
 **Domaya/Domaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
